@@ -237,7 +237,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      &quot;I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.&quot;,
+      &quot;I thought it was impossible to make a website as beautiful as our product, but Ghulam Hussain proved me wrong.&quot;,
     name: &quot;Sara Lee&quot;,
     designation: &quot;CFO&quot;,
     company: &quot;Acme Co&quot;,
@@ -245,7 +245,7 @@ const testimonials = [
   },
   {
     testimonial:
-      &quot;I've never met a web developer who truly cares about their clients' success like Rick does.&quot;,
+      &quot;I've never met a web developer who truly cares about their clients' success like Ghulam Hussain does.&quot;,
     name: &quot;Chris Brown&quot;,
     designation: &quot;COO&quot;,
     company: &quot;DEF Corp&quot;,
@@ -253,7 +253,7 @@ const testimonials = [
   },
   {
     testimonial:
-      &quot;After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!&quot;,
+      &quot;After Ghulam Hussain optimized our website, our traffic increased by 50%. We can't thank them enough!&quot;,
     name: &quot;Lisa Wang&quot;,
     designation: &quot;CTO&quot;,
     company: &quot;456 Enterprises&quot;,
@@ -501,7 +501,7 @@ export { services, technologies, experiences, testimonials, projects };"><pre><s
 <span class="pl-k">const</span> <span class="pl-s1">testimonials</span> <span class="pl-c1">=</span> <span class="pl-kos">[</span>
   <span class="pl-kos">{</span>
     <span class="pl-c1">testimonial</span>:
-      <span class="pl-s">"I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong."</span><span class="pl-kos">,</span>
+      <span class="pl-s">"I thought it was impossible to make a website as beautiful as our product, but Ghulam Hussain proved me wrong."</span><span class="pl-kos">,</span>
     <span class="pl-c1">name</span>: <span class="pl-s">"Sara Lee"</span><span class="pl-kos">,</span>
     <span class="pl-c1">designation</span>: <span class="pl-s">"CFO"</span><span class="pl-kos">,</span>
     <span class="pl-c1">company</span>: <span class="pl-s">"Acme Co"</span><span class="pl-kos">,</span>
@@ -509,7 +509,7 @@ export { services, technologies, experiences, testimonials, projects };"><pre><s
   <span class="pl-kos">}</span><span class="pl-kos">,</span>
   <span class="pl-kos">{</span>
     <span class="pl-c1">testimonial</span>:
-      <span class="pl-s">"I've never met a web developer who truly cares about their clients' success like Rick does."</span><span class="pl-kos">,</span>
+      <span class="pl-s">"I've never met a web developer who truly cares about their clients' success like Ghulam Hussain does."</span><span class="pl-kos">,</span>
     <span class="pl-c1">name</span>: <span class="pl-s">"Chris Brown"</span><span class="pl-kos">,</span>
     <span class="pl-c1">designation</span>: <span class="pl-s">"COO"</span><span class="pl-kos">,</span>
     <span class="pl-c1">company</span>: <span class="pl-s">"DEF Corp"</span><span class="pl-kos">,</span>
@@ -517,7 +517,7 @@ export { services, technologies, experiences, testimonials, projects };"><pre><s
   <span class="pl-kos">}</span><span class="pl-kos">,</span>
   <span class="pl-kos">{</span>
     <span class="pl-c1">testimonial</span>:
-      <span class="pl-s">"After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!"</span><span class="pl-kos">,</span>
+      <span class="pl-s">"After Ghulam Hussain optimized our website, our traffic increased by 50%. We can't thank them enough!"</span><span class="pl-kos">,</span>
     <span class="pl-c1">name</span>: <span class="pl-s">"Lisa Wang"</span><span class="pl-kos">,</span>
     <span class="pl-c1">designation</span>: <span class="pl-s">"CTO"</span><span class="pl-kos">,</span>
     <span class="pl-c1">company</span>: <span class="pl-s">"456 Enterprises"</span><span class="pl-kos">,</span>
